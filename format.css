@@ -1,0 +1,23 @@
+body {
+    background-color:#c0e0d0;
+    font-family:Geneva,Arial,Helvetica,sans-serif;
+    margin: 1px auto;
+    padding: 1px auto;
+    max-width:900px;
+    text-align:center;	    
+}
+h1 {
+    color:#0000ff;
+}
+h2 {
+    color:#0000ff;
+}
+section {
+    display:block;
+    text-align:center;	    
+}
+canvas {
+    border:3px solid;
+    border-color: "black"; 
+    border-radius:15px;
+}
